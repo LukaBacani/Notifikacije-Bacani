@@ -1,4 +1,4 @@
-#Mon Mar 06 22:38:49 CET 2023
+#Mon Mar 06 22:46:21 CET 2023
 base.2=C\:\\Users\\thera\\AndroidStudioProjects\\Notifikacije-Bacani\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
 path.2=9/classes.dex
 base.1=C\:\\Users\\thera\\AndroidStudioProjects\\Notifikacije-Bacani\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
