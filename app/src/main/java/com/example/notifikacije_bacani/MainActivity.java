@@ -148,7 +148,7 @@ public class MainActivity extends AppCompatActivity {
                             .setContentText(text)
                             .setSmallIcon(R.drawable.ic_launcher_foreground)
                             .setContentIntent(pendingIntent)
-                            .addAction(R.drawable.ic_launcher_foreground, "Action", pendingIntent)
+                            .addAction(R.drawable.ic_launcher_foreground, "Zatvori", pendingIntent)
                             .setAutoCancel(true);
 
 
